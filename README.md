@@ -10,5 +10,4 @@ Calculation of **TF-IDF** is used to create a vector model of each document base
 Further documentation can be found on the code [here](https://github.com/albertpratomo/DocumentSimilarity/blob/master/docSimilarity.ipynb).
 
 Albert Edwillian Pratomo
-
 Martina Marcelline
