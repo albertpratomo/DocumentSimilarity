@@ -1,5 +1,5 @@
 # Document Similarity with NER, TF-IDF, and Cosine Similarity
-Step by step guide to calculating multiple documents similarity in Python.
+Step by step guide to calculate multiple documents similarity in Python.
 
 We tokenize our texts along with **Named Entity Recognition**, in which we extract multi-word named entities such as "Los Angeles" as one token instead of two for better comparison accuracy.
 
@@ -10,4 +10,5 @@ Calculation of **TF-IDF** is used to create a vector model of each document base
 Further documentation can be found on the code [here](https://github.com/albertpratomo/DocumentSimilarity/blob/master/docSimilarity.ipynb).
 
 Albert Edwillian Pratomo
+
 Martina Marcelline
